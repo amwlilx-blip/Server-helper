@@ -1,9 +1,0 @@
-{
-  "name": "server-builder-rust-ru",
-  "version": "2.0.0",
-  "description": "Server Builder — Rust RU Discord community bot",
-  "main": "src/index.js",
-  "scripts": { "start": "node src/index.js", "deploy": "node src/deploy-commands.js" },
-  "engines": { "node": ">=20.11.0" },
-  "dependencies": { "discord.js": "^14.28.1", "dotenv": "^16.6.1" }
-}
